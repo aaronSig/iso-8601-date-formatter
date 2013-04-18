@@ -1,3 +1,5 @@
+# Now uses ARC
+
 # ISO 8601: The only date format worth using
 
 Obligatory relevant [xkcd](http://xkcd.com/):
